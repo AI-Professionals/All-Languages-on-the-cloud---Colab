@@ -14,3 +14,4 @@
 
 ![Webp net-resizeimage](https://user-images.githubusercontent.com/56000213/143503123-6c75b440-9907-4ef1-84cc-219a290e8107.jpg)
 ![Webp net-resizeimage](https://user-images.githubusercontent.com/56000213/143503201-093c9a0f-a047-47be-bea1-ffaceb0d5f99.png)
+![rust-logo-128x128-blk](https://user-images.githubusercontent.com/56000213/143778532-8a8c10ef-ddfc-455b-bbd7-f32c83601426.png)
