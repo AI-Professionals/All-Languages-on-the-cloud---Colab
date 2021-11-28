@@ -9,9 +9,9 @@
 ![R_logo svg](https://user-images.githubusercontent.com/56000213/143502296-aa930344-964c-4076-9bd6-17e245c0d1e6.png)
 ![20210501145041!Kotlin_Icon](https://user-images.githubusercontent.com/56000213/143502335-0f1ca149-c655-4a4d-bb25-fb0e12e19f0e.png)
 ![java-2336959-1982840](https://user-images.githubusercontent.com/56000213/143502462-e694a1d4-b5ab-4d81-af4d-a7fae7651899.png)
-![javascript-2038874-1720087](https://user-images.githubusercontent.com/56000213/143502508-2c9d322d-5163-4f9d-a98e-886d68c092f2.png)
+![JavaScript_Logo](https://user-images.githubusercontent.com/56000213/143778729-f743c5de-6c6a-4eaf-9c66-b5c8486a9060.png)
 ![octave-icon](https://user-images.githubusercontent.com/56000213/143502611-2044b6b9-cf11-4472-a728-fcf022c6cd0f.png)
-
 ![Webp net-resizeimage](https://user-images.githubusercontent.com/56000213/143503123-6c75b440-9907-4ef1-84cc-219a290e8107.jpg)
 ![Webp net-resizeimage](https://user-images.githubusercontent.com/56000213/143503201-093c9a0f-a047-47be-bea1-ffaceb0d5f99.png)
 ![rust-logo-128x128-blk](https://user-images.githubusercontent.com/56000213/143778532-8a8c10ef-ddfc-455b-bbd7-f32c83601426.png)
+
